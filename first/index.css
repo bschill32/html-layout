@@ -1,0 +1,26 @@
+nav {
+    height: 23vh;
+    width: 100vw;
+    background-color: rgb(100, 100, 100);
+
+}
+
+section {
+    height: 77vh;
+    width: 100vw;
+    background-color: lightgray;
+}
+
+.top {
+    background-color: white;
+    height: 67vh;
+    width: 75vw;
+    margin: auto;
+}
+
+.bottom {
+    background-color: rgb(39, 39, 39);
+    height: 10vh;
+    width: 75vw;
+    margin: auto;
+}
